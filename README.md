@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guillermo sánchez vázquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo sánchez vázquez" height="30" width="40" /></a>
-<a href="https://fb.com/guillermo vázquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guillermo vázquez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanchezvazquezguillermo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo sánchez vázquez" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100088567210497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guillermo vázquez" height="30" width="40" /></a>
 <a href="https://instagram.com/memo_slifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="memo_slifer" height="30" width="40" /></a>
 </p>
 
