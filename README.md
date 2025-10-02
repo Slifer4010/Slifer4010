@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Slifer4010</h1>
-<h3 align="center">Estudiante de Ingeniería Mecatrónica con interés en la programación con Python y FrontEnd</h3>
+<h3 align="center">Recién egresado de Ingeniería Mecatrónica con interés en la programación con Python y la ciberseguridad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slifer4010&label=Profile%20views&color=0e75b6&style=flat" alt="slifer4010" /> </p>
 
-- 🌱 I’m currently learning **Pyhton, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Pyhton, Bash**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
